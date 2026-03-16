@@ -1,5 +1,6 @@
 package com.example.lab08;
 
+// This is a test comment for Lab 8 CI
 public class City {
     private String city;
     private String province;
